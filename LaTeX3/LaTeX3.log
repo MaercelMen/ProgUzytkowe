@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.27)  26 OCT 2017 11:38
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.27)  26 OCT 2017 12:46
 entering extended mode
-**LaTeX2.tex
-(D:\marcelmen\ProgUzytkowe\LaTeX\LaTeX2.tex
+**LaTeX3.tex
+(D:\marcelmen\ProgUzytkowe\LaTeX3\LaTeX3.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
 , bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
@@ -288,77 +288,116 @@ Now handling font encoding OT4 ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)) (D:\marcelmen\ProgUzytkowe\LaTeX\LaTeX2.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Try loading font information for OML+plm on input line 12.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omlplm.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (D:\marcelmen\ProgUzytkowe\LaTeX3\LaTeX3.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+(C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    Try loading font information for OML+plm on input line 11.
+ (C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 12.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 11.
 
 (C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 12.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 11.
 
 (C:\Users\local\AppData\Roaming\MiKTeX\2.9\tex\latex\polski\omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <14.4> on input line 12.
+(Font)              <14.4> on input line 11.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 12.
+(Font)              <10> on input line 11.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 12.
- (D:\marcelmen\ProgUzytkowe\LaTeX\LaTeX2.toc)
+(Font)              <7> on input line 11.
+ (D:\marcelmen\ProgUzytkowe\LaTeX3\LaTeX3.toc)
 \tf@toc=\write3
 
-Overfull \hbox (35.30121pt too wide) in paragraph at lines 15--17
-[]\OT4/cmr/m/n/10.95 Wydziaª Ma-te-ma-ty-ki i In-for-ma-ty-ki Uni-wer-sy-te-tu Warmi«sko-Mazurskiego
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 19.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+<foto/Marin_Tufan.jpg, id=1, 175.65625pt x 239.89626pt>
+File: foto/Marin_Tufan.jpg Graphic file (type jpg)
+ <use foto/Marin_Tufan.jpg>
+Package pdftex.def Info: foto/Marin_Tufan.jpg used on input line 23.
+(pdftex.def)             Requested size: 97.5pt x 133.1623pt.
  [1
 
-{C:/Users/local/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] (D:\marcelmen\ProgUzytkowe\LaTeX\LaTeX2.aux) ) 
+{C:/Users/local/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/marcelmen/ProgUzytkowe/LaTeX3/foto/Marin_Tufan.jp
+g>] [2]
+(D:\marcelmen\ProgUzytkowe\LaTeX3\LaTeX3.aux) ) 
 Here is how much of TeX's memory you used:
- 684 strings out of 494045
- 8215 string characters out of 3145969
- 55257 words of memory out of 3000000
- 4008 multiletter control sequences out of 15000+200000
- 11646 words of font info for 34 fonts, out of 3000000 for 9000
+ 1559 strings out of 494045
+ 20145 string characters out of 3145969
+ 70022 words of memory out of 3000000
+ 4852 multiletter control sequences out of 15000+200000
+ 11132 words of font info for 32 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 23i,6n,24p,261b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C
-:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plrm.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy10.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plbx10.pfb><C:/Users/local/Ap
-pData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plbx12.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/
-pl/plr10.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/local/AppData/Roaming/
-MiKTeX/2.9/fonts/type1/public/pl/plr17.pfb>
-Output written on LaTeX2.pdf (2 pages, 56866 bytes).
+ 27i,6n,24p,609b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plrm.enc}<C
+:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plbx10.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fon
+ts/type1/public/pl/plbx12.pfb><C:/Users/local/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/local
+/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr17.pfb>
+Output written on LaTeX3.pdf (2 pages, 44900 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
+ 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
